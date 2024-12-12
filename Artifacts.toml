@@ -1,0 +1,77 @@
+[[GAP_pkg_kbmag]]
+arch = "aarch64"
+git-tree-sha1 = "feeeccbeb24f144aa7c2ec8f3f909b1972866455"
+os = "macos"
+
+    [[GAP_pkg_kbmag.download]]
+    sha256 = "df97dc448a3573cb791a3f18ef2038791e62d84f9c0a91320b3a171b87c0bf77"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_kbmag_jll.jl/releases/download/GAP_pkg_kbmag-v100.500.1100+0/GAP_pkg_kbmag.v100.500.1100.aarch64-apple-darwin.tar.gz"
+[[GAP_pkg_kbmag]]
+arch = "aarch64"
+git-tree-sha1 = "79e1ce49159083c3e5c25674aba381b6291e2d95"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_kbmag.download]]
+    sha256 = "e6003b2900de6fdb60e971dfb7c5c3271d5cf8cf8dbeccf77566e0a71cd5ccf4"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_kbmag_jll.jl/releases/download/GAP_pkg_kbmag-v100.500.1100+0/GAP_pkg_kbmag.v100.500.1100.aarch64-linux-gnu.tar.gz"
+[[GAP_pkg_kbmag]]
+arch = "aarch64"
+git-tree-sha1 = "693ed976ba13d3d51a39dcdef898762a8b132321"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_kbmag.download]]
+    sha256 = "5b0533fde21c749f6c3311512a95941ea5e6bbeed7d1b49980c160dbf365cfbb"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_kbmag_jll.jl/releases/download/GAP_pkg_kbmag-v100.500.1100+0/GAP_pkg_kbmag.v100.500.1100.aarch64-linux-musl.tar.gz"
+[[GAP_pkg_kbmag]]
+arch = "aarch64"
+git-tree-sha1 = "b3ba73dcf595a9a2d68fe1901bf4ab25e60a2e9d"
+os = "freebsd"
+
+    [[GAP_pkg_kbmag.download]]
+    sha256 = "be5cd6cb3154b99df52c7ccd9bce5d139caa6e25a9a197448efc4e390b3a4e6e"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_kbmag_jll.jl/releases/download/GAP_pkg_kbmag-v100.500.1100+0/GAP_pkg_kbmag.v100.500.1100.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_kbmag]]
+arch = "powerpc64le"
+git-tree-sha1 = "281c1d33272d560656003030457170bbb429223a"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_kbmag.download]]
+    sha256 = "b9ea0ce32d0b1829888b0c32251b79fdbf9a8623f74f484907d53c36b8949c8e"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_kbmag_jll.jl/releases/download/GAP_pkg_kbmag-v100.500.1100+0/GAP_pkg_kbmag.v100.500.1100.powerpc64le-linux-gnu.tar.gz"
+[[GAP_pkg_kbmag]]
+arch = "x86_64"
+git-tree-sha1 = "2fd7e2bc550e92aff903b6e50cbcb9d2aee5045e"
+os = "macos"
+
+    [[GAP_pkg_kbmag.download]]
+    sha256 = "2ab1b68d596b7f409dfe129f169009d130b4756d6f9ce81467b5df9b15f29d1d"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_kbmag_jll.jl/releases/download/GAP_pkg_kbmag-v100.500.1100+0/GAP_pkg_kbmag.v100.500.1100.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_kbmag]]
+arch = "x86_64"
+git-tree-sha1 = "cbf9d5c8de730e00458bd0c07679dad06aeb7408"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_kbmag.download]]
+    sha256 = "7ec4d6857faa6930d7018b2679cf079b147c2fb79f12b1cdadb8c1608648e285"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_kbmag_jll.jl/releases/download/GAP_pkg_kbmag-v100.500.1100+0/GAP_pkg_kbmag.v100.500.1100.x86_64-linux-gnu.tar.gz"
+[[GAP_pkg_kbmag]]
+arch = "x86_64"
+git-tree-sha1 = "b12e234df97a31f452e6ca7b6e53b9669ff93475"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_kbmag.download]]
+    sha256 = "2c7f58cec9c74612f82c528e2574eecd9e7c43c8eebf571d450bf83c8a7c8896"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_kbmag_jll.jl/releases/download/GAP_pkg_kbmag-v100.500.1100+0/GAP_pkg_kbmag.v100.500.1100.x86_64-linux-musl.tar.gz"
+[[GAP_pkg_kbmag]]
+arch = "x86_64"
+git-tree-sha1 = "a6e4320998164b143a9feb81951cf91c9798719c"
+os = "freebsd"
+
+    [[GAP_pkg_kbmag.download]]
+    sha256 = "137181f3f3d22767911235927019c315ced1f518df99aae962f92602a407acce"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_kbmag_jll.jl/releases/download/GAP_pkg_kbmag-v100.500.1100+0/GAP_pkg_kbmag.v100.500.1100.x86_64-unknown-freebsd.tar.gz"
